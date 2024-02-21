@@ -27,3 +27,5 @@ Select Location, Population,date, MAX(total_cases) as HighestInfectionCount,  Ma
 From PortfolioProject..CovidDeaths
 Group by Location, Population, date
 order by PercentPopulationInfected desc
+
+![Dashboard 1](https://github.com/NigarAliyeva1/Data-Analyst-Portfolio-Project/assets/112957859/4b0a3fb4-22c3-4d2b-ac88-697a26df2225)
