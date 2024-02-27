@@ -29,4 +29,4 @@ These SQL queries can be used to extract insights from the `CovidDeaths` dataset
 The dataset used for this analysis is named `CovidDeaths` and resides within the `PortfolioProject` database. It contains data related to COVID-19 cases and deaths across different locations and time periods.
 
 
-![Dashboard 1](https://github.com/NigarAliyeva1/Data-Analyst-Portfolio-Project/assets/112957859/4b0a3fb4-22c3-4d2b-ac88-697a26df2225)
+![Covid-19 Dashboard](https://github.com/NigarAliyeva1/Data-Analyst-Portfolio-Project/assets/112957859/d4bfd819-5706-40c3-a364-9faea216af78)
